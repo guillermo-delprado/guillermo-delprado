@@ -18,7 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guillermo-delprado&show_icons=true&locale=en&layout=compact" alt="guillermo-delprado" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guillermo-delprado&show_icons=true&locale=en" alt="guillermo-delprado" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guillermo-delprado&" alt="guillermo-delprado" /></p>
 
